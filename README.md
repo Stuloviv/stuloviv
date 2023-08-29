@@ -2,7 +2,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?stuloviv=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuloviv&layout=compact)](https://github.com/stuloviv/github-readme-stats)
 
 <!--
 **Stuloviv/stuloviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
