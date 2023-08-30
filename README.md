@@ -1,6 +1,7 @@
-### Привет 👋
-
----
+<div>
+  <h1 align="center">Привет 👋</h1>
+</div>
+--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuloviv&layout=compact)](https://github.com/stuloviv/github-readme-stats)
 
